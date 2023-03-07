@@ -60,7 +60,7 @@ print(df)
 
 mydb = mysql.connector.connect(
         host="localhost",
-        user="root@",
+        user="root",
         password=""
 )
 print(mydb)
@@ -68,7 +68,7 @@ print(mydb)
 
 hostname="localhost"
 dbname="web_scrapping"
-uname="root@"
+uname="root"
 pwd=""
 
 engine = create_engine("mysql+pymysql://{user}:{pw}@{host}/{db}".format(host=hostname, db=dbname, user=uname, pw=pwd))
