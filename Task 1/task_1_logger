@@ -1,0 +1,47 @@
+25-Mar-23 17:49:09-Starting new HTTPS connection (1): www.icicidirect.com:443
+25-Mar-23 17:49:17-https://www.icicidirect.com:443 "GET /ilearn/stocks/articles/nse-holidays-2023 HTTP/1.1" 200 40084
+25-Mar-23 17:53:14-Starting new HTTPS connection (1): www.icicidirect.com:443
+25-Mar-23 17:53:14-https://www.icicidirect.com:443 "GET /ilearn/stocks/articles/nse-holidays-2023 HTTP/1.1" 200 40084
+25-Mar-23 18:02:44-Starting new HTTPS connection (1): www.icicidirect.com:443
+25-Mar-23 18:02:46-https://www.icicidirect.com:443 "GET /ilearn/stocks/articles/nse-holidays-2023 HTTP/1.1" 200 40082
+25-Mar-23 18:02:46-{'Holidays': '\nRepublic Day\n', 'Date': '\nJanuary 26, 2023\n', 'Day': '\nThursday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nHoli\n', 'Date': '\nMarch 07, 2023\n', 'Day': '\nTuesday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nRam Navami\n', 'Date': '\nMarch 30, 2023\n', 'Day': '\nThursday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nMahavir Jayanti\n', 'Date': '\nApril 04, 2023\n', 'Day': '\nTuesday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nGood Friday\n', 'Date': '\nApril 07, 2023\n', 'Day': '\nFriday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nDr.Baba Saheb Ambedkar Jayanti\n', 'Date': '\nApril 14, 2023\n', 'Day': '\nFriday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nId-ul-fitr (Ramzan Id)\n', 'Date': '\nApril 21, 2023\n', 'Day': '\nFriday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nMaharashtra Day\n', 'Date': '\nMay 01, 2023\n', 'Day': '\nMonday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nId-ul-adha (Bakri Id)\n', 'Date': '\nJune 28, 2023\n', 'Day': '\nWednesday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nIndependence Day\n', 'Date': '\nAugust 15, 2023\n', 'Day': '\nTuesday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nGanesh Chaturthi\n', 'Date': '\nSeptember 19, 2023\n', 'Day': '\nTuesday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nMahatma Gandhi Jayanti\n', 'Date': '\nOctober 02, 2023\n', 'Day': '\nMonday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nDussehra\n', 'Date': '\nOctober 24, 2023\n', 'Day': '\nTuesday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nDiwali Balipratipada\n', 'Date': '\nNovember 14, 2023\n', 'Day': '\nTuesday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nGurunanak Jayanti\n', 'Date': '\nNovember 27, 2023\n', 'Day': '\nMonday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nChristmas\n', 'Date': '\nDecember 25, 2023\n', 'Day': '\nMonday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nMahashivratri\n', 'Date': '\nFebruary 18, 2023\n', 'Day': '\nSaturday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nId-Ul-Fitr (Ramzan Id)\n', 'Date': '\nApril 22, 2023\n', 'Day': '\nSaturday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nMuharram\n', 'Date': '\nJuly 29, 2023\n', 'Day': '\nSaturday\n'}
+25-Mar-23 18:02:46-{'Holidays': '\nDiwali Laxmi-Pujan\n', 'Date': '\nNovember 12, 2023\n', 'Day': '\nSunday\n'}
+25-Mar-23 18:02:49-<pyodbc.Connection object at 0x00000217F131FC60>
+25-Mar-23 18:02:49-Inserting Holiday to DB
+25-Mar-23 18:02:49-Inserting Holiday to DB
+25-Mar-23 18:02:49-Inserting Holiday to DB
+25-Mar-23 18:02:50-Inserting Holiday to DB
+25-Mar-23 18:02:50-Inserting Holiday to DB
+25-Mar-23 18:02:50-Inserting Holiday to DB
+25-Mar-23 18:02:51-Inserting Holiday to DB
+25-Mar-23 18:02:51-Inserting Holiday to DB
+25-Mar-23 18:02:51-Inserting Holiday to DB
+25-Mar-23 18:02:51-Inserting Holiday to DB
+25-Mar-23 18:02:52-Inserting Holiday to DB
+25-Mar-23 18:02:52-Inserting Holiday to DB
+25-Mar-23 18:02:52-Inserting Holiday to DB
+25-Mar-23 18:02:52-Inserting Holiday to DB
+25-Mar-23 18:02:53-Inserting Holiday to DB
+25-Mar-23 18:02:53-Inserting Holiday to DB
+25-Mar-23 18:02:53-Inserting Holiday to DB
+25-Mar-23 18:02:54-Inserting Holiday to DB
+25-Mar-23 18:02:54-Inserting Holiday to DB
+25-Mar-23 18:02:54-Inserting Holiday to DB
